@@ -1,0 +1,47 @@
+body {
+    background-color:slategray !important;
+}
+
+
+.head-font {
+    text-align: center;
+    font-size: 100%;
+    background-color: silver; 
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-bottom: 10px;
+}
+
+.search-box {
+border-radius:40px;
+padding: 15px; 
+background-color: orange;
+height: 60px; 
+margin-right: 70%;
+
+    
+}
+
+.list-group{
+margin-left: -80px;
+margin-top: 20px;
+}
+
+.col-md-4 {
+margin-left:-6%;
+margin-top:2%;
+
+}
+
+.col-md-8 {
+margin-left:5%;
+margin-top:2%;
+
+
+}
+
+.container-5day{
+    margin-left:34%
+
+
+}
